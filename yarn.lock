@@ -995,10 +995,9 @@
     sinon "^10.0.0"
     strip-ansi "^6.0.0"
 
-"@salesforce/source-tracking@^1.1.3":
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/@salesforce/source-tracking/-/source-tracking-1.1.3.tgz#fd553a9c6f4b7bf06c6d3cc71d06b2ed022c5de7"
-  integrity sha512-8LpR2bR2nCm+IKF+nPJ1msO2yyE1CQNPie9EdQQH1/JenwHduw3jo/TzAL7Fszx6Lu3swOrYOGbK8AgbYvQRPg==
+"@salesforce/source-tracking@git://github.com/financialforcedev/source-tracking#v1.1.6":
+  version "1.1.6"
+  resolved "git://github.com/financialforcedev/source-tracking#5cadcda5aca0da4745280e5b94864e58af3acba4"
   dependencies:
     "@salesforce/core" "^2.33.1"
     "@salesforce/kit" "^1.5.17"
