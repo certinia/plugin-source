@@ -10,7 +10,7 @@
     "@salesforce/command": "^4.2.2",
     "@salesforce/core": "^2.35.0",
     "@salesforce/source-deploy-retrieve": "^5.12.2",
-    "@salesforce/source-tracking": "git://github.com/financialforcedev/source-tracking#v1.1.6",
+    "@salesforce/source-tracking": "https://github.com/financialforcedev/source-tracking#v1.1.6",
     "chalk": "^4.1.2",
     "cli-ux": "^5.6.3",
     "open": "^8.4.0",

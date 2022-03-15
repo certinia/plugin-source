@@ -995,9 +995,9 @@
     sinon "^10.0.0"
     strip-ansi "^6.0.0"
 
-"@salesforce/source-tracking@git://github.com/financialforcedev/source-tracking#v1.1.6":
+"@salesforce/source-tracking@https://github.com/financialforcedev/source-tracking#v1.1.6":
   version "1.1.6"
-  resolved "git://github.com/financialforcedev/source-tracking#5cadcda5aca0da4745280e5b94864e58af3acba4"
+  resolved "https://github.com/financialforcedev/source-tracking#5cadcda5aca0da4745280e5b94864e58af3acba4"
   dependencies:
     "@salesforce/core" "^2.33.1"
     "@salesforce/kit" "^1.5.17"
